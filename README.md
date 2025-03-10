@@ -3,7 +3,7 @@
 ## Description
 A simple React flashcard app built to practice state management.
 
-# Technologies Used
+## Tech Stack
 - Javascript
 - HTML
 - CSS
